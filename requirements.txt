@@ -1,0 +1,11 @@
+streamlit
+pymupdf
+sentence-transformers
+scikit-learn
+pandas
+nltk
+beautifulsoup4
+google-generativeai
+python-dotenv
+plotly
+sqlalchemy
