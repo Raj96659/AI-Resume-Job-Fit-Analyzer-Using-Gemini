@@ -1,4 +1,4 @@
-# 🧩 AI Resume & Job Fit Analyzer
+# 🧩 AI Resume Screening and Job Match Engine  using Gemini 2.5 flash
 
 > **AI-powered resume matching system using Sentence-BERT and Google Gemini LLM for intelligent candidate screening and career optimization.**
 
